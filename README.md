@@ -11,7 +11,7 @@ Here you'll find my most relevant data analysis projects, developed with a focus
 
 | Project | Description | Status | Technology |
 |--------|-----------|--------|-------------|
-| [Students Performance in Exams](./StudentsPerformanceinExams) | Exploratory analysis with data directly from Kaglle, seeking to answer hypotheses raised during the project. | ✅ Concluído | Python, Pandas, Seaborn |
+| [Students Performance in Exams](./Students_Performance_in_Exams) | Exploratory analysis with data directly from Kaglle, seeking to answer hypotheses raised during the project. | ✅ Concluído | Python, Pandas, Seaborn |
 
 ---
 
