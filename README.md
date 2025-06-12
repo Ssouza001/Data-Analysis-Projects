@@ -40,8 +40,8 @@ I'm **Renato**, a computer technician and Information Systems student. I have ex
 
 If you want to know more about me:
 
-- [My LinkedIn](https://linkedin.com/in/seuperfil)
-- [My Portfolio](https://seusite.com) 
+- [My LinkedIn](www.linkedin.com/in/renato-gomes-souza)
+- [My Portfolio]([https://gomesrenato8415.wixsite.com/renato-gomes-souza]) 
 
 ---
 
