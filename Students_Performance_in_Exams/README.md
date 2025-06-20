@@ -1,39 +1,43 @@
 # 🎓 Students Performance in Exams
 
-Exploratory analysis of educational data from Kaggle with a focus on student performance based on gender, parents' education and participation in a preparatory course.
+This project explores educational data from Kaggle to identify patterns in student performance based on **gender**, **parental education**, and **participation in preparatory courses**.
 
-## 🧠 Project Objective
+---
 
-To carry out an exploratory analysis to answer the following questions:
+## 🎯 Objective
+To perform exploratory data analysis (EDA) in order to answer:
 
 - Does gender affect students' grades?
-- Which groups do better in the subjects assessed?
-- Do students with parents who have higher education tend to get better grades?
-- Does participation in a preparatory course have a positive impact on performance?
+- Which demographic groups perform best across subjects?
+- Do students with more educated parents tend to achieve better scores?
+- Does attending a preparatory course positively impact performance?
+
+---
 
 ## 🛠️ Technologies and Libraries Used
-
 - Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+- Pandas and NumPy for data manipulation
+- Matplotlib and Seaborn for data visualization
 
-## 📊 Analysis Performed
+---
 
-During the analysis, visualizations were created to investigate the relationship between variables such as:
+## 📊 Key Analyses Performed
+The following relationships were investigated using visual exploration:
 
-- Gender and grades
-- Parental education and performance
-- Effect of preparatory course on grades
+- Gender vs. Performance
+- Parental Education vs. Scores
+- Impact of Preparatory Course on Grades
 
-## ✅ Main results
+---
 
-- In all subjects, students who took the preparatory course tended to perform better.
-- The reduction in negative outliers and the increase in the median indicate that the course is effective in improving academic performance.
+## ✅ Key Findings
+- Students who took the **preparatory course** consistently performed better in all subjects.
+- Visualizations showed a **reduction in negative outliers** and **increase in medians** for this group, suggesting the course has a **positive effect on academic performance**.
 
-## 📁 How to Run
+---
+
+## 📁 How to Run the Project
 
 1. Clone the repository:
- ```bash
-git clone https://github.com/Ssouza001/Data-Analysis-Projects.git
+   ```bash
+   git clone https://github.com/Ssouza001/Data-Analysis-Projects.git
